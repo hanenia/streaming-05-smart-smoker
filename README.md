@@ -1,12 +1,12 @@
 # streaming-05-smart-smoker
-##Author: Hanna Anenia
-##Date: 5/31/2024
-##Objective:
+Author: Hanna Anenia
+Date: 5/31/2024
+Objective:
 Use RabbitMQ to distribute tasks to multiple workers
 
 One process will create task messages. Multiple worker processes will share the work.
 
-##Prerequisites
+## Prerequisites
 RabbitMQ Installed and running on your machine
 Pika installed and running on Python
 
@@ -14,7 +14,7 @@ The Problem / Challenge To Solve
 Read about the Smart Smoker system. 
 Access the smoker data file here Download smoker data file here.
 
-##smoker-temps.csv has 4 columns:
+## smoker-temps.csv has 4 columns:
 
 [0] Time = Date-time stamp for the sensor reading
 [1] Channel1 = Smoker Temp --> send to message queue "01-smoker"
