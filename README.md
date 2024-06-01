@@ -36,8 +36,7 @@ Create a file for your bbq producer.
 Implement your bbq producer. 
 Used the logic, approach, and structure from Module 4, version 2 and version 3.
 comments added  in the code and repo to explain your work. 
-Use docstring comments and add your name and date to your README and your code files.
+Use docstring comments and add your name and date to your README and your code files..
 
-## screenshots
+## screenshot
 ![screenshot](image/Screenshot%202024-05-31%20162205.png)
-
