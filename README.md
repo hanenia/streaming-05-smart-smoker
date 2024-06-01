@@ -39,4 +39,4 @@ comments added  in the code and repo to explain your work.
 Use docstring comments and add your name and date to your README and your code files..
 
 ## screenshot
-![screenshot](image/Screenshot%202024-05-31%20162205.png)
+![screenshot](Screenshot%202024-05-31%20162205.png)
