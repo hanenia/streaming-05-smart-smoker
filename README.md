@@ -1,7 +1,10 @@
 # streaming-05-smart-smoker
-Author: Hanna Anenia
-Date: 5/31/2024
-Objective:
+
+## Author: Hanna Anenia
+
+## Date: 5/31/2024
+
+## Objective:
 Use RabbitMQ to distribute tasks to multiple workers
 
 One process will create task messages. Multiple worker processes will share the work.
@@ -35,5 +38,5 @@ Used the logic, approach, and structure from Module 4, version 2 and version 3.
 comments added  in the code and repo to explain your work. 
 Use docstring comments and add your name and date to your README and your code files.
 
-## screenshots. 
+## screenshots. gi 
 ![sceeenshot](Screenshot 2024-05-31 162205.png)
